@@ -31,3 +31,7 @@ GPT-2 is great at NLP! It will be interesting to continue monitoring and using t
 ## What's next for AI As Art 🚀
 
 Using GPT-3 and testing whether Hidden Markov Models are NOT required when using this new SOTA model would be interesting. Additionally, turning the program I used to create the two outputs into an accessible app or website for others to use and generate their own poetry and songs would be a good next step! 
+
+## Updates
+
+I was rendering some style transfer images for each of the generated poems. I'll be adding those into the book when they're all ready! 
