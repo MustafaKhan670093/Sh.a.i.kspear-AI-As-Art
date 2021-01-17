@@ -1,8 +1,8 @@
 # Sh.a.i.kspear: AI As Art
 
-I made an AI publish a poetry book and a pop song in under 24 HOURS
+I made an AI publish a poetry book and a pop song in under 24 HOURS!
 
-Check out the book [here](https://drive.google.com/file/d/1HUXuWla3EUYEdugSEU2eALDejLz_vVl0/view?usp=sharing) and the song [here](https://www.youtube.com/watch?v=ZylrjWU2tRE&feature=youtu.be)
+Check out the book [here](https://drive.google.com/file/d/1HUXuWla3EUYEdugSEU2eALDejLz_vVl0/view?usp=sharing) and the song [here](https://www.youtube.com/watch?v=ZylrjWU2tRE&feature=youtu.be).
 
 ## Inspiration 💭
 
