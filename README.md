@@ -16,7 +16,7 @@ Using the Generative Pre-trained Transformer 2 (GPT-2) model and Hidden Markov M
 
 ## Challenges I ran into 🧠
 
-I initially tried making a LSTM based text generator and also tried using simple Markov Models, however, these did not achieve the level of complexity and detail I was looking for. Implementing these allowed me to understand how the two work better. Nevertheless, moving from this hurdle to using GPT-2 and Hidden Markov Models allowed me to deepen my understanding of how Natural Language Processing (NLP) can both be achieved as well as how it has developed. 
+I initially tried making a LSTM based text generator and also tried using simple Markov Models, however, these did not achieve the level of complexity and detail I was looking for. Implementing these allowed me to understand how the two work better. Nevertheless, moving from this hurdle to using GPT-2 and Hidden Markov Models allowed me to deepen my understanding of how Natural Language Processing (NLP) can both be achieved as well as how it has developed over the years. 
 
 ## Accomplishments that I'm proud of 🔥
 
