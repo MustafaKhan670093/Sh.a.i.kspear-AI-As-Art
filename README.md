@@ -6,7 +6,7 @@ I made an AI publish a poetry book and a pop song in under 24 HOURS
 
 ## Inspiration 💭
 
-I had heard of but never personally explored the art in artificial intelligence. Inspired by the poetry I write, the incredible art I have seen and the drive to leverage machine learning and give myself as well as the AI agents I program a voice, I made this project!
+I had heard of but never personally explored the art in artificial intelligence. Inspired by the poetry I write, the incredible art I have seen and the drive to leverage machine learning in order to give myself as well as the AI agent I programmed a voice, I made this project!
 
 ## What I worked on 👀
 
